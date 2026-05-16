@@ -1,5 +1,7 @@
 [![Tests](https://github.com/jhl126/pycausal-inference-joshlim/workflows/Tests/badge.svg)](https://github.com/jhl126/pycausal-inference-joshlim/actions)
 
+[![PyPI version](https://badge.fury.io/py/pycausal-inference-joshlim.svg)](https://pypi.org/project/pycausal-inference-joshlim/)
+
 # Causal Inference Python Package - Josh Lim
 
 This package provides key causal inference methods. These methods include ATE estimation from randomized experiments, propensity score methods, and meta-learners.
