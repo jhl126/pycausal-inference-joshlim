@@ -8,12 +8,17 @@ This package provides key causal inference methods. These methods include ATE es
 
 ## Installation
 
+Install from PyPI:
+
 ```bash
-# Clone the repository
+pip install pycausal-inference-joshlim
+```
+
+Or install in editable mode for development:
+
+```bash
 git clone https://github.com/jhl126/pycausal-inference-joshlim.git
 cd pycausal-inference-joshlim
-
-# Install in editable mode
 uv pip install -e .
 ```
 
